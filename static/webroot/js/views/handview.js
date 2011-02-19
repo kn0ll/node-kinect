@@ -15,7 +15,11 @@ $(function() {
             hand.bind('change:y', this.updateY);
             hand.bind('change:z', this.updateZ);
             
-            this.$view = $('<div />').addClass('hand').appendTo($body);
+            this.$view =
+                $('<img />')
+                    .addClass('hand')
+                    .attr('src', '/webroot/img/' + this.id + '-hand.png')
+                    .appendTo($body);
             
             // get width and height for z calculations
             this.width = this.$view.width();
