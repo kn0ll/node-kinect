@@ -1,0 +1,18 @@
+[submodule "static/webroot/js/lib/backbone"]
+	path = static/webroot/js/lib/backbone
+	url = https://github.com/documentcloud/backbone.git
+[submodule "static/webroot/js/lib/underscore"]
+	path = static/webroot/js/lib/underscore
+	url = https://github.com/documentcloud/underscore.git
+[submodule "static/webroot/js/lib/Socket.IO"]
+	path = static/webroot/js/lib/Socket.IO
+	url = https://github.com/LearnBoost/Socket.IO.git
+[submodule "lib/node-jspack"]
+	path = lib/node-jspack
+	url = https://github.com/pgriess/node-jspack.git
+[submodule "lib/Socket.IO-connect"]
+	path = lib/Socket.IO-connect
+	url = https://github.com/bnoguchi/Socket.IO-connect.git
+[submodule "lib/Socket.IO-node"]
+	path = lib/Socket.IO-node
+	url = https://github.com/LearnBoost/Socket.IO-node.git
