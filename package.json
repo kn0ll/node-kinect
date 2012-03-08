@@ -1,0 +1,8 @@
+{
+	"version": "0.0.1",
+	"name": "node-hands",
+	"dependencies": {
+		"connect": "1.8.5",
+		"socket.io": "0.9.0"
+	}
+}
