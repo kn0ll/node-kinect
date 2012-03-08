@@ -1,0 +1,1 @@
+note: remove `require.paths.unshift(__dirname + '/jspack');` from datatypes.js in osc4node because require.paths is removed on new node versions. instead it should just use npm (npm install jspack).

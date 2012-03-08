@@ -3,6 +3,8 @@
 	"name": "node-hands",
 	"dependencies": {
 		"connect": "1.8.5",
+		"jspack": "0.0.1",
+		"osc4node": "0.1.0",
 		"socket.io": "0.9.0"
 	}
 }
