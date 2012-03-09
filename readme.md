@@ -27,7 +27,3 @@ installation
         gcc -lfreenect -llo -framework OpenGL -framework GLUT -I ~/Code/libfreenect/include bionic_dj.c
 
     where `~/Code/libfreenect/include` is the path to your libfreenect header files
-
----
-
-**note**: in newer node versions, you will need to remove `require.paths.unshift(__dirname + '/jspack');` from `datatypes.js` in `osc4node`, because `require.paths` is deprecated.
