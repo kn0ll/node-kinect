@@ -1,0 +1,3 @@
+[submodule "lib/bionic-dj"]
+	path = lib/bionic-dj
+	url = git@github.com:catshirt/bionic-dj.git
