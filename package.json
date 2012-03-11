@@ -3,7 +3,6 @@
 	"name": "node-hands",
 	"dependencies": {
 		"connect": "1.8.5",
-		"osc-min": "0.0.1",
 		"socket.io": "0.9.0"
 	}
 }
