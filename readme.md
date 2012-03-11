@@ -25,7 +25,7 @@ installation
         git submodule init
         git submodule update
         cd lib/bionic-dj
-        gcc -lfreenect -llo -framework OpenGL -framework GLUT -I ~/Code/libfreenect/include lib/bionic-djbionic_dj.c
+        gcc -lfreenect -llo -framework OpenGL -framework GLUT -I ~/Code/libfreenect/include bionic_dj.c
         ./a.out
 
     where `~/Code/libfreenect/include` is the path to your libfreenect header files

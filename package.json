@@ -3,6 +3,7 @@
 	"name": "node-hands",
 	"dependencies": {
 		"connect": "1.8.5",
+		"omgosc": "0.1.0",
 		"socket.io": "0.9.0"
 	}
 }
